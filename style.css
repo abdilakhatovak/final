@@ -7,3 +7,21 @@ body {
     margin: 0;
     background-color: #f5f5f5;
 }
+.calculator {
+    width: 260px;
+    background: #e5c7ce;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.display {
+    width: 90%;
+    height: 60px;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    text-align: right;
+    padding: 10px;
+    border: 1.5px solid #9c9b95;
+    border-radius: 5px;
+    background-color: #eeeeee;
+}
